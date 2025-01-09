@@ -97,22 +97,22 @@ CareSync Hub is a comprehensive solution that combines real-time health monitori
 
 ## Getting Started
 
-### 1. **Clone the Repository**:
+### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/caresync-hub.git
 cd caresync-hub
 ```
 
-### 2. **Install Dependencies**:
+### 2. **Install Dependencies**
 ```bash
 npm install
 ```
 
-### 3. **Set Up Environment Variables**:
+### 3. **Set Up Environment Variables**
 
-### 4. **Run the Application**:
+### 4. **Run the Application**
 ```bash
 npm start
 ```
 
-### 5. **Access the Application**:
+### 5. **Access the Application**
